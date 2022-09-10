@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Academic web PWA Trails
         </a>
       </header>
     </div>
